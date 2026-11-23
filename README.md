@@ -2,6 +2,8 @@
 
 Building fast, zero-tracking, browser-local AI, developer & freelance tools and contributing to open-source engineering infrastructure.
 
+> 🚀 **Commercial White-Label Bundle (5 USDT / ¥29 One-Time)**: Get all 7 self-hosted single-file tools + commercial license → **[XiaheAI ZeroSuite Pro v1.0](https://devbox-zero-ops.github.io/xiaheai-hub/pro.html)**
+
 ## Live Zero-Tracking Web Tools (100% Client-Side)
 
 | Project | Description | Live / Repo |
@@ -12,6 +14,7 @@ Building fast, zero-tracking, browser-local AI, developer & freelance tools and 
 | **InvoiceZero** | Watermark-free multi-currency Invoice & Quotation generator (USDT/USD/CNY/EUR) with A4 PDF export | [Live App](https://devbox-zero-ops.github.io/invoice-zero/) · [Source](https://github.com/devbox-zero-ops/invoice-zero) |
 | **ResumeMD Zero** | Watermark-free local Markdown resume builder with 3 themes & crisp A4 PDF export | [Live App](https://devbox-zero-ops.github.io/resumemd-zero/) · [Source](https://github.com/devbox-zero-ops/resumemd-zero) |
 | **ChainCalc Zero** | Client-side DeFi Impermanent Loss (V2/V3), Gas-Adjusted APY & Position Sizing calculator | [Live App](https://devbox-zero-ops.github.io/chaincalc-zero/) · [Source](https://github.com/devbox-zero-ops/chaincalc-zero) |
+| **AevumPay** | Trustless `tUSD8` Invoice Payments & Confirmation-of-Payee Escrow on QDay Aevum Testnet (Chain 44005) | [Live App](https://devbox-zero-ops.github.io/aevumpay/) · [Source](https://github.com/devbox-zero-ops/aevumpay) |
 | **wallet-watch-cli** | Zero-dependency Node.js CLI for multi-chain balance monitoring & webhook alerts | [Release v1.0.0](https://github.com/devbox-zero-ops/wallet-watch-cli) |
 
 ## Support Open-Source Work (USDT Priority · USDC Compatible)
