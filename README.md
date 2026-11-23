@@ -1,18 +1,19 @@
-# ⚡ DevBox Zero Ops
+# DevBox Zero Ops
 
-Building **100% local-first, zero-tracking developer & Web3 utilities** and contributing bug fixes to open-source engineering ecosystems.
+Building fast, zero-tracking, browser-local developer & productivity tools and contributing to open-source engineering infrastructure.
 
-## 🚀 Live Free Tools (Zero Server Uploads)
+## Live Zero-Tracking Web Tools (100% Client-Side)
 
-| Project | Description | Live / Release |
-|---|---|---|
-| **⚡ DevBox Zero** | 100% browser-local JSON/TS, JWT, Base64/URL, Cron, Diff, Regex, SHA-256 & UUID toolkit | [Open Web App →](https://devbox-zero-ops.github.io/devbox-zero/) |
-| **🧮 ChainCalc Zero** | Privacy-first DeFi Impermanent Loss (V2/V3), Gas-Adjusted APY & Position Risk calculator | [Open Web App →](https://devbox-zero-ops.github.io/chaincalc-zero/) |
-| **👁️ wallet-watch-cli** | Zero-dependency Node.js CLI for Base, ETH, Arbitrum, Polygon & Solana USDC balance + Webhook alerts | [v1.0.0 Release →](https://github.com/devbox-zero-ops/wallet-watch-cli/releases/tag/v1.0.0) |
+| Project | Description | Live / Repo |
+| --- | --- | --- |
+| **DevBox Zero** | 8-in-1 privacy-first developer toolkit (JSON/TS, JWT, Base64/URL, Cron, Diff, Regex, SHA-256/512, UUID) | [Live App](https://devbox-zero-ops.github.io/devbox-zero/) · [Source](https://github.com/devbox-zero-ops/devbox-zero) |
+| **ResumeMD Zero** | Watermark-free local Markdown resume builder with 3 themes & crisp A4 PDF export | [Live App](https://devbox-zero-ops.github.io/resumemd-zero/) · [Source](https://github.com/devbox-zero-ops/resumemd-zero) |
+| **ChainCalc Zero** | Client-side DeFi Impermanent Loss (V2/V3), Gas-Adjusted APY & Position Sizing calculator | [Live App](https://devbox-zero-ops.github.io/chaincalc-zero/) · [Source](https://github.com/devbox-zero-ops/chaincalc-zero) |
+| **wallet-watch-cli** | Zero-dependency Node.js CLI for multi-chain balance monitoring & webhook alerts | [Release v1.0.0](https://github.com/devbox-zero-ops/wallet-watch-cli) |
 
-## 💎 Support Independent Open Tooling
+## Support Open-Source Work (USDT)
 
-If our tools or open-source fixes save you time, you can tip directly (zero platform fees):
-- **Base / EVM USDC**: `0xe4c8739bCC488bD98978CE976511735e0499d432`
-- **Solana USDC / SOL**: `89XqpaJDKajhYFs4Vmex853yxoEU7HqwnMAPtTDpgZgG`
-- **Alipay / WeChat Pay**: Available inside the Support modal on [DevBox Zero](https://devbox-zero-ops.github.io/devbox-zero/)
+If any of these tools save you time, you can support maintenance via USDT:
+
+- **EVM USDT (Arbitrum / Polygon / Ethereum / BSC)**: `0xe4c8739bCC488bD98978CE976511735e0499d432`
+- **Solana USDT / SOL**: `89XqpaJDKajhYFs4Vmex853yxoEU7HqwnMAPtTDpgZgG`
