@@ -1,35 +1,34 @@
-# DevBox Zero Ops (XiaheAI)
+# DevBox Zero Ops
 
-Building fast, zero-tracking, browser-local AI, developer & freelance tools and contributing to open-source engineering infrastructure.
+Building fast, zero-tracking, browser-local developer & quantitative tools and contributing to open-source engineering infrastructure.
 
-> 🚀 **Commercial White-Label Bundle (5 USDT / ¥29 One-Time)**: Get all 7 self-hosted single-file tools + 9 interactive SEO calculators (46 files) + commercial license → **[XiaheAI ZeroSuite Pro v1.0](https://devbox-zero-ops.github.io/xiaheai-hub/pro.html)** · Official ChatGPT Go / Plus / Pro Store → **[shop.xiaheai.com](https://shop.xiaheai.com)**
+## Live Zero-Tracking Web Apps & CLIs (MIT Licensed)
 
-## Live Zero-Tracking Web Tools (100% Client-Side)
-
-| Project | Description | Live / Repo |
+| Project | Description | Live / Release |
 | --- | --- | --- |
-| **XiaheAI Hub** | Bilingual portal, 9 interactive AI cost/risk calculators & custom automation services | [Live Portal](https://devbox-zero-ops.github.io/xiaheai-hub/) · [Source](https://github.com/devbox-zero-ops/xiaheai-hub) |
-| **TokenCost Zero** | Local LLM token estimator (EN/CJK) & multi-model API cost calculator with prompt cache math | [Live App](https://devbox-zero-ops.github.io/tokencost-zero/) · [Source](https://github.com/devbox-zero-ops/tokencost-zero) |
+| **XiaheAI Hub** | Bilingual tool portal + 10 interactive cost & subscription calculators | [Live Portal](https://devbox-zero-ops.github.io/xiaheai-hub/) · [Source](https://github.com/devbox-zero-ops/xiaheai-hub) |
+| **quant-radar-cli** | Zero-dependency Python CLI for Hyperliquid/Binance/Bybit funding-rate arbitrage, Polymarket scanning, paper trading & webhook/Telegram cooldown alerts | [Release v1.1.0](https://github.com/devbox-zero-ops/quant-radar-cli/releases/tag/v1.1.0) · [Source](https://github.com/devbox-zero-ops/quant-radar-cli) |
+| **TokenCost Zero** | Browser-local LLM token estimator & multi-model API cost comparison (OpenAI, Claude, Gemini, DeepSeek, Qwen) with cache modeling & CSV export | [Live App](https://devbox-zero-ops.github.io/tokencost-zero/) · [Source](https://github.com/devbox-zero-ops/tokencost-zero) |
 | **DevBox Zero** | 8-in-1 privacy-first developer toolkit (JSON/TS, JWT, Base64/URL, Cron, Diff, Regex, SHA-256/512, UUID) | [Live App](https://devbox-zero-ops.github.io/devbox-zero/) · [Source](https://github.com/devbox-zero-ops/devbox-zero) |
-| **InvoiceZero** | Watermark-free multi-currency Invoice & Quotation generator (USDT/USD/CNY/EUR) with A4 PDF export | [Live App](https://devbox-zero-ops.github.io/invoice-zero/) · [Source](https://github.com/devbox-zero-ops/invoice-zero) |
-| **ResumeMD Zero** | Watermark-free local Markdown resume builder with 3 themes & crisp A4 PDF export | [Live App](https://devbox-zero-ops.github.io/resumemd-zero/) · [Source](https://github.com/devbox-zero-ops/resumemd-zero) |
+| **InvoiceZero** | Watermark-free bilingual multi-currency commercial invoice & quotation A4 PDF generator (USD, EUR, CNY, USDT) | [Live App](https://devbox-zero-ops.github.io/invoice-zero/) · [Source](https://github.com/devbox-zero-ops/invoice-zero) |
+| **ResumeMD Zero** | Watermark-free local Markdown resume builder with 3 ATS-friendly themes & crisp A4 PDF export | [Live App](https://devbox-zero-ops.github.io/resumemd-zero/) · [Source](https://github.com/devbox-zero-ops/resumemd-zero) |
 | **ChainCalc Zero** | Client-side DeFi Impermanent Loss (V2/V3), Gas-Adjusted APY & Position Sizing calculator | [Live App](https://devbox-zero-ops.github.io/chaincalc-zero/) · [Source](https://github.com/devbox-zero-ops/chaincalc-zero) |
-| **wallet-watch-cli** | Zero-dependency Node.js CLI for EVM + Solana USDT/USDC monitoring & webhook alerts | [Source (MIT)](https://github.com/devbox-zero-ops/wallet-watch-cli) |
-| **quant-radar-cli** | Zero-dependency Python CLI for Hyperliquid/Binance/Bybit funding arbitrage, Polymarket NegRisk scans & paper trading | [Source (MIT)](https://github.com/devbox-zero-ops/quant-radar-cli) |
+| **wallet-watch-cli** | Zero-dependency Node.js CLI for multi-chain USDT/USDC/ETH/SOL balance monitoring & webhook alerts | [Release v1.0.0](https://github.com/devbox-zero-ops/wallet-watch-cli/releases/tag/v1.0.0) · [Source](https://github.com/devbox-zero-ops/wallet-watch-cli) |
 
-## Open-Source Web3 & Smart Contract Builds
+## Interactive Subscription & Cost Guides (中文选型与测算)
 
-- **MilestoneEscrow** (Gno.land `onyx-1`): Multi-milestone trustless escrow realm & live sandbox — [Demo](https://devbox-zero-ops.github.io/milestone-escrow/) · [Repo](https://github.com/devbox-zero-ops/milestone-escrow)
-- **GlanceFi G2** (Even Realities G2 HUD `.ehpk`): Hyperliquid / Polymarket / Arbitrum portfolio HUD — [Demo](https://devbox-zero-ops.github.io/glancefi-g2/) · [Repo](https://github.com/devbox-zero-ops/glancefi-g2)
-- **AgentSettle HSK** (HashKey Chain Testnet): Agent-to-agent settlement vault — [Demo](https://devbox-zero-ops.github.io/agentsettle-hsk/) · [Repo](https://github.com/devbox-zero-ops/agentsettle-hsk)
-- **AevumPay** (QDay Aevum Testnet): Trustless `tUSD8` invoice & escrow — [Demo](https://devbox-zero-ops.github.io/aevumpay/) · [Repo](https://github.com/devbox-zero-ops/aevumpay)
+- [ChatGPT 独享成品号 vs 官方自助直充 3 步选型向导](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-account-vs-topup.html)
+- [ChatGPT-Go ¥48 vs Plus 选型测算](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-go-vs-plus.html) · [ChatGPT Pro 值得买吗（ROI 测算）](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-pro-worth-it.html)
+- [ChatGPT Plus vs API 省钱测算](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-plus-guide.html) · [Plus vs Claude Pro vs Cursor Pro 对比](https://devbox-zero-ops.github.io/xiaheai-hub/cursor-vs-claude-vs-chatgpt.html) · [Codex CLI 成本测算](https://devbox-zero-ops.github.io/xiaheai-hub/codex-cli-cost-guide.html)
+- [Plus 拒付排查](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-payment-declined.html) · [Team vs Plus 对比](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-team-vs-plus.html) · [防封号 7 项自检](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-ban-prevention.html)
+- 官方现货与自助直充入口：[夏禾AI官方商城 (shop.xiaheai.com)](https://shop.xiaheai.com/)
 
-## Popular Guides & Cost Calculators (中文交互指南)
+## White-Label Bundle & Custom Engineering
 
-- [ChatGPT Pro 值得买吗 (ROI 测算)](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-pro-worth-it.html) · [ChatGPT-Go ¥48 vs Plus 成品号/原号直充选型](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-go-vs-plus.html) · [Plus vs API 实时成本测算](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-plus-guide.html) · [Plus vs Claude vs Cursor 预算](https://devbox-zero-ops.github.io/xiaheai-hub/cursor-vs-claude-vs-chatgpt.html) · [Codex CLI 成本测算](https://devbox-zero-ops.github.io/xiaheai-hub/codex-cli-cost-guide.html)
-- [ChatGPT Plus 银行卡拒付排查](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-payment-declined.html) · [Team vs Plus 拼车风险计算](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-team-vs-plus.html) · [防封号 7 项自检](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-ban-prevention.html)
+- **XiaheAI ZeroSuite Pro (8 Apps + 10 Interactive Guides, 5 USDT / ¥29)**: [Direct Checkout](https://devbox-zero-ops.github.io/xiaheai-hub/pro.html)
+- **Custom Quantitative Bots, Web3/CLI Automation & Support**: `chenweiyi0827@gmail.com`
 
-## Support Open-Source Work (USDT Priority · USDC Compatible)
+## Support Open-Source Work (USDT / USDC)
 
-- **EVM USDT (Arbitrum / Polygon / Ethereum / BSC)**: `0xe4c8739bCC488bD98978CE976511735e0499d432`
-- **Solana USDT / SOL**: `89XqpaJDKajhYFs4Vmex853yxoEU7HqwnMAPtTDpgZgG`
+- **EVM (Arbitrum / Polygon / Ethereum / BSC / Base)**: `0xe4c8739bCC488bD98978CE976511735e0499d432`
+- **Solana (USDT / USDC / SOL)**: `89XqpaJDKajhYFs4Vmex853yxoEU7HqwnMAPtTDpgZgG`
