@@ -15,6 +15,7 @@ Building fast, zero-tracking, browser-local AI, developer & freelance tools and 
 | **ResumeMD Zero** | Watermark-free local Markdown resume builder with 3 themes & crisp A4 PDF export | [Live App](https://devbox-zero-ops.github.io/resumemd-zero/) · [Source](https://github.com/devbox-zero-ops/resumemd-zero) |
 | **ChainCalc Zero** | Client-side DeFi Impermanent Loss (V2/V3), Gas-Adjusted APY & Position Sizing calculator | [Live App](https://devbox-zero-ops.github.io/chaincalc-zero/) · [Source](https://github.com/devbox-zero-ops/chaincalc-zero) |
 | **wallet-watch-cli** | Zero-dependency Node.js CLI for EVM + Solana USDT/USDC monitoring & webhook alerts | [Source (MIT)](https://github.com/devbox-zero-ops/wallet-watch-cli) |
+| **quant-radar-cli** | Zero-dependency Python CLI for Hyperliquid/Binance/Bybit funding arbitrage, Polymarket NegRisk scans & paper trading | [Source (MIT)](https://github.com/devbox-zero-ops/quant-radar-cli) |
 
 ## Open-Source Web3 & Smart Contract Builds
 
