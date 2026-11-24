@@ -2,13 +2,13 @@
 
 Building fast, zero-tracking, browser-local AI, developer & freelance tools and contributing to open-source engineering infrastructure.
 
-> 🚀 **Commercial White-Label Bundle (5 USDT / ¥29 One-Time)**: Get all 7 self-hosted single-file tools + 7 interactive SEO calculators (44 files) + commercial license → **[XiaheAI ZeroSuite Pro v1.0](https://devbox-zero-ops.github.io/xiaheai-hub/pro.html)** · Official ChatGPT Plus / Pro Store → **[shop.xiaheai.com](https://shop.xiaheai.com)**
+> 🚀 **Commercial White-Label Bundle (5 USDT / ¥29 One-Time)**: Get all 7 self-hosted single-file tools + 8 interactive SEO calculators + commercial license → **[XiaheAI ZeroSuite Pro v1.0](https://devbox-zero-ops.github.io/xiaheai-hub/pro.html)** · Official ChatGPT Go / Plus / Pro Store → **[shop.xiaheai.com](https://shop.xiaheai.com)**
 
 ## Live Zero-Tracking Web Tools (100% Client-Side)
 
 | Project | Description | Live / Repo |
 | --- | --- | --- |
-| **XiaheAI Hub** | Bilingual portal, 7 interactive AI cost/risk calculators & custom automation services | [Live Portal](https://devbox-zero-ops.github.io/xiaheai-hub/) · [Source](https://github.com/devbox-zero-ops/xiaheai-hub) |
+| **XiaheAI Hub** | Bilingual portal, 8 interactive AI cost/risk calculators & custom automation services | [Live Portal](https://devbox-zero-ops.github.io/xiaheai-hub/) · [Source](https://github.com/devbox-zero-ops/xiaheai-hub) |
 | **TokenCost Zero** | Local LLM token estimator (EN/CJK) & multi-model API cost calculator with prompt cache math | [Live App](https://devbox-zero-ops.github.io/tokencost-zero/) · [Source](https://github.com/devbox-zero-ops/tokencost-zero) |
 | **DevBox Zero** | 8-in-1 privacy-first developer toolkit (JSON/TS, JWT, Base64/URL, Cron, Diff, Regex, SHA-256/512, UUID) | [Live App](https://devbox-zero-ops.github.io/devbox-zero/) · [Source](https://github.com/devbox-zero-ops/devbox-zero) |
 | **InvoiceZero** | Watermark-free multi-currency Invoice & Quotation generator (USDT/USD/CNY/EUR) with A4 PDF export | [Live App](https://devbox-zero-ops.github.io/invoice-zero/) · [Source](https://github.com/devbox-zero-ops/invoice-zero) |
@@ -25,7 +25,7 @@ Building fast, zero-tracking, browser-local AI, developer & freelance tools and 
 
 ## Popular Guides & Cost Calculators (中文交互指南)
 
-- [Plus vs API 实时成本测算](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-plus-guide.html) · [Plus vs Claude vs Cursor 预算](https://devbox-zero-ops.github.io/xiaheai-hub/cursor-vs-claude-vs-chatgpt.html) · [Codex CLI 成本测算](https://devbox-zero-ops.github.io/xiaheai-hub/codex-cli-cost-guide.html)
+- [ChatGPT-Go ¥48 vs Plus 成品号/原号直充选型](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-go-vs-plus.html) · [Plus vs API 实时成本测算](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-plus-guide.html) · [Plus vs Claude vs Cursor 预算](https://devbox-zero-ops.github.io/xiaheai-hub/cursor-vs-claude-vs-chatgpt.html) · [Codex CLI 成本测算](https://devbox-zero-ops.github.io/xiaheai-hub/codex-cli-cost-guide.html)
 - [ChatGPT Plus 银行卡拒付排查](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-payment-declined.html) · [Team vs Plus 拼车风险计算](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-team-vs-plus.html) · [防封号 7 项自检](https://devbox-zero-ops.github.io/xiaheai-hub/chatgpt-ban-prevention.html)
 
 ## Support Open-Source Work (USDT Priority · USDC Compatible)
