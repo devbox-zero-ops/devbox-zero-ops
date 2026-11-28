@@ -3,7 +3,9 @@
 Building zero-backend browser utilities, Web3/Bittensor developer infrastructure, and production automation pipelines.
 
 ## Free Browser-Local Utilities (Zero Upload, Privacy-First)
-- **[LocalVault Tools](https://devbox-zero-ops.github.io/localvault-tools/)** — 100% client-side file tools running locally in your browser:
+- **[LocalVault Tools](https://devbox-zero-ops.github.io/localvault-tools/)** — 100% client-side file & business utilities running locally in your browser:
+  - [Free Offline Invoice PDF Generator (No Sign-Up, No Watermark)](https://devbox-zero-ops.github.io/localvault-tools/free-invoice-generator-offline.html)
+  - [Offline PDF to JPG / PNG / WebP Converter (+ZIP)](https://devbox-zero-ops.github.io/localvault-tools/pdf-to-jpg-offline.html)
   - [Merge PDF Offline](https://devbox-zero-ops.github.io/localvault-tools/merge-pdf-offline.html) & [Split / Extract PDF Pages](https://devbox-zero-ops.github.io/localvault-tools/split-pdf-offline.html)
   - [Private Photo EXIF & GPS Metadata Remover](https://devbox-zero-ops.github.io/localvault-tools/remove-exif-metadata-offline.html)
   - [Batch WebP/JPEG Image Compressor (+ZIP)](https://devbox-zero-ops.github.io/localvault-tools/batch-image-compressor.html)
